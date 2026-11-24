@@ -1,2 +1,4 @@
 # ilk-projem
-GitHub Öğreniyorum
+Merhaba! Ben GitHub öğreniyorum.
+
+Bu benim ilk GitHub projem.
